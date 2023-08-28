@@ -8,6 +8,8 @@ Output: Folder with csvs for every page of each Census.
 Note: If input pdfs do not have ocr'd text, ocring text will be a required first step of the process - this can be done in any standard pdf editor, like Adobe. To check if text is already ocr'd, see if you can highlight a section of text on a page, and copy and paste it. One common source of inaccuracy in this process is the ocr - a poor ocr means there will be many numbers that appear incorrectly as letters.
 
 # Components
+### Environment:
+
 ### Set Up:
 **Input:** Folder containing pdfs of Census. Each Census pdf title should indicate the first and last page number on which to parse data and a title that will identify the Census. For example, "445_638_Midnapur.pdf".
 
