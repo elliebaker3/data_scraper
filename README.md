@@ -9,7 +9,7 @@ Note: If input pdfs do not have ocr'd text, ocring text will be a required first
 
 # Components
 ### Environment:
-
+DDL's basic environment works! 
 ### Set Up:
 **Input:** Folder containing pdfs of Census. Each Census pdf title should indicate the first and last page number on which to parse data and a title that will identify the Census. For example, "445_638_Midnapur.pdf".
 
